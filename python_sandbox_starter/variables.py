@@ -13,3 +13,10 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+x, y, name, Is_cool = (10, 22, "Arman", True)
+
+print(x)
+print(name)
+print(y)
+print(Is_cool) 
+# ssss
