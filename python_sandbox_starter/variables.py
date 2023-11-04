@@ -13,10 +13,31 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
-x, y, name, Is_cool = (10, 22, "Arman", True)
 
-print(x)
-print(name)
-print(y)
-print(Is_cool) 
-# ssss
+# x=1
+# y= 2.4 
+# name = 'Shemore '
+# is_handsome = True 
+ 
+x, y,name,is_handsome = (1, 2.6, 'Shemore', True)
+
+print (x, y, name , is_handsome)
+
+
+# Math  
+ 
+a = x + y 
+
+
+
+# caasting
+x= str(x)
+
+print (type(x))
+
+
+# x, y, name, Is_cool = (10, 22, "Arman", True)
+# print(x)
+# print(name)
+# print(y)
+# print(Is_cool) 
