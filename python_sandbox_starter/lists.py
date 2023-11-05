@@ -12,4 +12,7 @@ fruits = ['Apple', "Mango", "Banana", "Grapes", "Oranges", "Mushroom"]
 # fruits.insert(1,"Lemons")
 # fruits.remove("Lemons")
 # fruits.remove("Lemons")
-print(len(number))
+fruits.sort()
+
+
+print(fruits)
