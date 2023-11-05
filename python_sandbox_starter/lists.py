@@ -4,8 +4,12 @@ fruits = ['Apple', "Mango", "Banana", "Grapes", "Oranges", "Mushroom"]
 
 #How to get values
 
-fruits.append("Carrots")
-fruits.insert(1,"Lemons")
-fruits.remove("Lemons")
-fruits.remove("Lemons")
-print(fruits)
+# number= [1,2,3,4,5]
+ 
+
+
+# fruits.append("Carrots")
+# fruits.insert(1,"Lemons")
+# fruits.remove("Lemons")
+# fruits.remove("Lemons")
+print(len(number))

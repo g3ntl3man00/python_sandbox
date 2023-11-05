@@ -34,14 +34,19 @@ age = 23
 
 
 # Make everything Upper case
-print(name.upper())
+# print(name.upper())
 
 # Make all lower case
-print(name.lower()) 
+# print(name.lower()) 
 
 
 # Get length of string 
-print(len(name))
+# print(len(name)) 
+
+
+# Find position of a character 
+
+# print(name.find('w'))
 
 # name = input("Whats your name? ")
 # age = int(input("Whats your age? "))
