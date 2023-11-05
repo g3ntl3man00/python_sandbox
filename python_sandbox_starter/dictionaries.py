@@ -18,7 +18,22 @@ person= {
 # Add values 
 # person['phone'] = '555-555-5555' 
 
+# copy dictionaries
+# person2 = person.copy()
+# person2 ['city'] = 'LHr'
 
+# remove an item 
+# del(person['age'])
+
+# Clear
+# person.clear()
 print(person)
 
+# list of dictionaries/object (for js people )
+people = [
+    {'name': "John", 'age': 69},
+    {'name': "Kelly", 'age': 45},
+]
 
+ 
+print(people[1]['name']) 
